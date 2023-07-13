@@ -275,6 +275,7 @@ section{
     justify-content: center;
     width: 600px;
     gap: 20px; */
+    /* padding-bottom: 50px; */
     border-radius: 15px;
     overflow:hidden;
 }
@@ -298,4 +299,24 @@ section{
     height: auto;
     size: 1000px; */
     border-radius:5px;
+}
+
+.contact{
+    font-size:12px;
+}
+
+.trademark{
+    padding-bottom: 30px;
+}
+
+.terms{
+    padding-bottom: 30px;
+}
+
+.social{
+    align-items: end;
+    margin-left: 1150px;
+    padding-top: -1;
+    padding-bottom: -1;
+    margin-top: -1;
 }
