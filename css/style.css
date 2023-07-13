@@ -320,3 +320,20 @@ section{
     padding-bottom: -1;
     margin-top: -1;
 }
+
+.card{
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+.card-image .card-img{
+    /* height:100%;
+    width: 100%; */
+    object-fit: cover;
+    border-radius: 50%;
+}
